@@ -6,3 +6,7 @@ archivo
 de prueba
 
 Esta linea se agregó en la tercera versión!
+
+Esta linea se agregó en la cuarta versión para generar conflicto!!!
+
+Este es el resultado del merge.
